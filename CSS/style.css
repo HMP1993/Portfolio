@@ -1,0 +1,16 @@
+
+.navigator {
+  margin: 2em;
+}
+
+.navigator h1,
+ul,
+a {
+  display: inline;
+  text-decoration: none;
+}
+.navigator li {
+  display: inline;
+  float: right;
+  margin: 0 1em 0 1em;
+}
