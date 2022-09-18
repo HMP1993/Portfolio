@@ -8,6 +8,13 @@ a {
   display: inline;
   text-decoration: none;
 }
+a:link,
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: red;
+}
 .navigator li {
   display: inline;
   float: right;
